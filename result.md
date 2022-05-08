@@ -17,6 +17,11 @@
   - updateDrink()         
     => 장바구니에 담긴 메뉴에서 선택 내용 변경                   
     <img src="https://github.com/TeamProjectCF/CaffeCRUD/blob/main/result_screenshot/updateDrink.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="">
+    
+  - addDrink()            
+    => 장바구니에 담긴 메뉴 파일에 추가                
+    <img src="https://github.com/TeamProjectCF/CaffeCRUD/blob/main/result_screenshot/addDrink1.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="">                 
+    <img src="https://github.com/TeamProjectCF/CaffeCRUD/blob/main/result_screenshot/addDrink2.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="">
 
   - deleteDrink()             
     => 장바구니에서 원하는 메뉴 삭제          
